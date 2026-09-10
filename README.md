@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Youssef Kassab<br>ASP.NET | Angular Full Stack Developer | ITI Trainee</h1>
+<h1 align="center">Hi 👋, I'm Youssef Kassab<br>Software Engineer | ASP.NET | Microsoft Dynamics 365 | ITI Graduate</h1>
 
 <p align="center">
-  ⚙️ Specialized in <strong>Backend Development</strong> — Clean Architecture, REST APIs, EF Core<br>
+  ⚙️ Specialized in <strong>Backend Development</strong> — ASP.NET Core, REST APIs, EF Core<br>
   🌐 Comfortable on the frontend with <strong>Angular & Tailwind</strong><br>
-  🎓 ITI Trainee — Professional Web Development & BI track<br>
-  💼 Open to junior fullstack .NET opportunities<br>
+  💼 Experienced with <strong>Microsoft Dynamics 365, Dataverse, Power Platform & Power Automate</strong><br>
+  🤖 Exploring <strong>Copilot Studio & AI Agents</strong><br>
+  🎓 ITI — Professional Web Development & BI track<br>
+  🚀 Open to opportunities in <strong>.NET Development & Microsoft Dynamics 365</strong>
 </p>
 
 ---
